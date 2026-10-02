@@ -5,7 +5,7 @@
 
 using namespace std;
 int main(){
-    string filename = "trace_address1.dat";
+    string filename = "trace_address2.dat";
     ifstream infile(filename);
     
     if (!infile.is_open()){
